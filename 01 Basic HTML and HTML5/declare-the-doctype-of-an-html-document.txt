@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+    <h1>Lorem ipsum</h1>
+</html>
